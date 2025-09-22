@@ -42,7 +42,8 @@ This dashboard is ideal for:
 - Strategy teams identifying expansion opportunities  
 - CXOs tracking high-level sales metrics
 
-## 📁 File Structure
+## Dashboard
+https://github.com/Born01toshine/Blinkit_Sales_Analysis/blob/main/Screenshot%202025-09-22%20120621.png
 
 ## 🙋‍♀️ About Me
 
