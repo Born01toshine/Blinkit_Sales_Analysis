@@ -43,7 +43,7 @@ This dashboard is ideal for:
 - CXOs tracking high-level sales metrics
 
 ## Dashboard
-<img width="1500" height="551" alt="Store Dashboard" src="" />
+<img width="1500" height="551" alt="Store Dashboard" src="https://github.com/Born01toshine/Blinkit_Sales_Analysis/blob/main/Sales%20Analysis.png" />
 
 ## 🙋‍♀️ About Me
 
