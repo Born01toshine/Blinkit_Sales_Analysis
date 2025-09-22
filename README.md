@@ -43,7 +43,7 @@ This dashboard is ideal for:
 - CXOs tracking high-level sales metrics
 
 ## Dashboard
-https://github.com/Born01toshine/Blinkit_Sales_Analysis/blob/main/Screenshot%202025-09-22%20120621.png
+
 
 ## 🙋‍♀️ About Me
 
