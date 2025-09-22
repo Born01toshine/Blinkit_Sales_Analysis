@@ -43,7 +43,7 @@ This dashboard is ideal for:
 - CXOs tracking high-level sales metrics
 
 ## Dashboard
-
+<img width="1500" height="551" alt="Store Dashboard" src="" />
 
 ## 🙋‍♀️ About Me
 
